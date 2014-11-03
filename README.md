@@ -24,9 +24,9 @@ version 0.2
 EBA_ST_2014.py was added. This contians all metadata for the .cvs files, conversions codes between EBA nd ECB entity IDs.
 
 
-pyEBAtest101.py calculates the ECBs EU wide CET1 shorfall (B10) from EBA data for a test case (Eurobank Ergasias GR).
+pyEBAtest101.py calculates the ECBs EU wide CET1 shortfall (B10) from EBA data for a test case (Eurobank Ergasias GR).
 
-
+pyEBAtest103.py calculates the  shortfalls (B9 B10) taken into account restructuring plans. It prints a table for all banks under restructuring.
 
 
 
