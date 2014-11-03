@@ -17,7 +17,7 @@ Objective is to add standardized items from balance-sheets and follow up in the 
 
 version 0.1
 
-ECB_CA_2014.py , contains the main figuers from the ECB CA-DISCLOUSERs with definitions and notes and original bank specific remarks are included. 
+ECB_CA_2014.py , contains the main figuers from the ECB CA-DISCLOUSEREs with definitions and notes and original bank specific remarks are included. 
 
 version 0.2
 
